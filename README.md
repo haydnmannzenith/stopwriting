@@ -1,4 +1,4 @@
 # stopwriting
 Automate communication
 
-#Hello
+Hello!
