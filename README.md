@@ -1,0 +1,2 @@
+# stopwriting
+Automate communication
